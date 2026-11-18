@@ -17,7 +17,7 @@ import plotly.express as px
 # ---------------------- 1. CẤU HÌNH TRANG ----------------------
 # set_page_config phải được gọi trước các lệnh hiển thị Streamlit.
 st.set_page_config(
-    page_title="Trợ lý dinh dưỡng học đường",
+    page_title="Trợ lý dinh dưỡng học đường - Nhóm A - 9C",
     page_icon="🥗",
     layout="wide",
     initial_sidebar_state="expanded",
