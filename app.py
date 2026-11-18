@@ -166,7 +166,7 @@ def read_uploaded_file(uploaded_file):
 
 
 # ---------------------- 4. GIAO DIỆN CHUNG ---------------------
-st.title("🥗 Trợ lý dinh dưỡng học đường")
+st.title("🥗 Trợ lý dinh dưỡng học đường - Nhóm A - 9C")
 st.caption("Mini App STEM – Dự án “Dữ liệu vì sức khỏe học đường” | Nhóm A")
 
 with st.sidebar:
